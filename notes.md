@@ -1,18 +1,17 @@
-Boas práticas na escrita de variáveis
+# Fluxos da aplicação
 
-- Em inglês
-- Sem espaços ou acentuações especiais no nome
-- Não pode iniciar com número
-- camelCase
+- Caminhos lógicos baseado em algum dado ou informação
 
-- Ponto e virgula servem para finalizar uma expressão de código e é facultativo
+# Boas práticas na programação
 
-[] Tipo de dado: Number
-[] typeof
-[] Operador matemático
-[] Manipulação de dados
-    [] type conversion (type casting)
-    [] Number() (função construtora para converter um dado em número)
-    [] String() (função construtora para converter um dado em uma string)
-[] Ordem de precedência dos operadores
-    [] group operator
+- Não repetir código
+
+[] Tipo de dado: Boolean (true | false)
+[] if/else
+[] Operadores comparativos
+  - > (maior que)
+  - < (menor que)
+  - >= (maior igual a)
+  - <= (menor igual a)
+  - == (igual a)
+  - != (diferente de) 
