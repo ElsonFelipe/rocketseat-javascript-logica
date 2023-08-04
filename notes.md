@@ -1,17 +1,12 @@
-# Fluxos da aplicação
+# Estrutura de dados
 
-- Caminhos lógicos baseado em algum dado ou informação
+- Organização e gerenciamento dos dados
+- Melhor eficiência do código
 
-# Boas práticas na programação
-
-- Não repetir código
-
-[] Tipo de dado: Boolean (true | false)
-[] if/else
-[] Operadores comparativos
-  - > (maior que)
-  - < (menor que)
-  - >= (maior igual a)
-  - <= (menor igual a)
-  - == (igual a)
-  - != (diferente de) 
+[] Estruturas de repetição
+  - laço de repetição
+  - for
+[] Vetores (Arrays)
+  [] Tipo de dado estruturado
+[] incremental (++) : o valor + 1
+[] Tipo de dado: undefined
